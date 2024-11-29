@@ -30,6 +30,11 @@ int main ()
 	total_area = area_rectangle + area_triangle + area_circle;
 	cout << "So, the total area of the objects is " << total_area << endl;
 	
+	
+	
 	return 0;
+	
+	
+	
 	
 }
